@@ -5,4 +5,11 @@ It is an individual assignment to help student understand how to build gravity, 
 
 The whole game was built from scratch using C++ and Openframework
 
+# Controls
+**Left/Right Arrow Keys** move the character left and right
+
+**Up Arrow Key** make the character jump
+
+Note: Character can only jump to the upper level. Wasn't enought time to implement collision detection for the lower level. Pending further updare
+
 Enjoy the game!
